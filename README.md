@@ -1,2 +1,2 @@
 # hello-world
-this is my kn ow nothing phase
+this is my know nothing phase
